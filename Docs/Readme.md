@@ -1,6 +1,8 @@
 # ![](../Source/Documentation/Manual/images/or_logo.png) Open Rails
 
 Open Rails is a free train simulator supporting the world's largest range of digital content.
+this project has not been started yet
+
 
 ## Getting started
 
