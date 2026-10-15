@@ -1,7 +1,11 @@
 # ![](../Source/Documentation/Manual/images/or_logo.png) Open Rails
 
 Open Rails is a free train simulator supporting the world's largest range of digital content.
-this project has not been started yet
+
+<h1>This project has not been started yet</h1>
+<p> the aim of this fork is to create a working stable version of openrails that works on the linux kernel </p>
+
+
 
 
 ## Getting started
